@@ -1,8 +1,8 @@
 adj-cli-python: Generates a random order of values in the given range
 =======================================
 
-[![env](/badges/env.svg)]
-[![platform](/badges/env.svg)]
+![env](/badges/env.svg)
+![platform](/badges/platform.svg)
 
 What is adj-cli-python?
 -------------
