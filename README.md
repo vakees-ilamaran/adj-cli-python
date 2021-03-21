@@ -6,7 +6,7 @@ adj-cli-python: Generates a random order of values in the given range
 
 What is adj-cli-python?
 -------------
-This is a cli that generates the numbers from 1 to 10 in a random sequence everytime.
+This is a cli(adjust-sequence-shuffler) that generates the numbers from 1 to 10 in a random sequence everytime.
 This uses the combination of LCG and Fisher-yates algorithm to generate a random number and shuffle the sequence.
 We can generate a random shuffles sequence for a custom limit as well, Please check the [usage](#usage) column
 to know more.
@@ -35,16 +35,14 @@ Quick start
 - Linux
 - MacOs
 
-## Linux flavours & MacOs
+## Linux  & MacOs
 
-The Installation can be done using the below ways
+The Installation can be done using the below ways for Linux and MacOs
 
 ### 1. Direct installation
 
-Git Clone the repository
+Git Clone the repository --> https://github.com/vakees14/adj-cli-python
 ```
-https://github.com/vakees14/adj-cli-python
-
 $ git clone https://github.com/vakees14/adj-cli-python
 $ cd adj-cli-python/
 ```
