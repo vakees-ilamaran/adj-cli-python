@@ -54,7 +54,10 @@ Use the below command to copy it into the /usr/local/bin to use it as a CLI
 
 ### 2. Install using the binary in release
 
-Download the from the Github Relese tab in the repository and place it in the below directory
+Download the package from the Github Relese tab in the repository.
+https://github.com/vakees14/adj-cli-python/releases 
+
+Then place it under the below directory
 
 ```
 /usr/local/bin/adjust-sequence-shuffler
