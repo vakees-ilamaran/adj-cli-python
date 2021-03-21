@@ -35,7 +35,7 @@ Supported Env:
 - Linux
 - MacOs
 
-## Linux flavours
+## Linux flavours & MacOs
 
 The Installation can be done using different ways
 
@@ -59,11 +59,6 @@ Download the from the Github Relese tab in the repository and place it in the be
 /usr/local/bin/adjust-sequence-shuffler
 ```
 
-## MacOs
-
-```
-Building in progress
-```
 
 Usage
 -----
