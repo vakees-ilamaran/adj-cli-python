@@ -37,9 +37,9 @@ Supported Env:
 
 ## Linux flavours & MacOs
 
-The Installation can be done using different ways
+The Installation can be done using the below ways
 
-### Direct installation
+### 1. Direct installation
 
 Git Clone the repository
 ```
@@ -51,7 +51,7 @@ Use the below command to copy it into the /usr/local/bin to use it as a CLI
 # mv adjust-sequence-shuffler.py /usr/local/bin/adjust-sequence-shuffler
 ```
 
-### Install using the binary
+### 2. Install using the binary in release
 
 Download the from the Github Relese tab in the repository and place it in the below directory
 
