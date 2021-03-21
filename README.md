@@ -8,7 +8,7 @@ What is adj-cli-python?
 -------------
 This is a cli that generates the numbers from 1 to 10 in a random sequence everytime.
 This uses the combination of LCG and Fisher-yates algorithm to generate a random number and shuffle the sequence.
-We can generate a random shuffles sequence for a custom limit as well, Please check the ![usage](Usage) column
+We can generate a random shuffles sequence for a custom limit as well, Please check the [usage](#usage) column
 to know more.
 
 
