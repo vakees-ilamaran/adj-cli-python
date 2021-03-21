@@ -105,7 +105,7 @@ $ adjust-sequence-shuffler --limit 15
 
 **How to know the available options ?**
 ```
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler -h
+# adjust-sequence-shuffler -h
 usage: adjust-sequence-shuffler [-h] [--limit limit] [--version]
 
 By default this will shuffle the sequence till 10. please provide --limit
@@ -121,7 +121,7 @@ Enjoy the CLI Adjust Team!
 
 **How to find the version of the adjust-sequence-shuffler you use ?**
 ```
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler --version
+# adjust-sequence-shuffler --version
 adjust-sequence-shuffler 1.0.0
 ```
 
