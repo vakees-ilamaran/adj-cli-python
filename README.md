@@ -32,8 +32,8 @@ Quick start
 
 Supported Env:
 
-- [x] Linux
-- [x] MacOs
+- Linux
+- MacOs
 
 ## Linux flavours
 
