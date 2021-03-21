@@ -30,9 +30,10 @@ For other Linux flavors, macOS and Windows, packages are available at
 Quick start
 -----------
 
-Installation Env:
-    - Linux Flavours
-    - MacOs
+Supported Env:
+
+- [x] Linux
+- [x] MacOs
 
 ## Linux flavours
 
@@ -66,10 +67,12 @@ Building in progress
 
 ## Versioning
 
+Released Verion --> 1.0.0
+
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **VAKEES**
+* [**VAKEES**](https://github.com/vakees14)
 
 See also the list of [contributors](https://github.com/vakees14/adj-cli-python/graphs/contributors) who participated in this project.
