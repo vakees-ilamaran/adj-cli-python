@@ -30,7 +30,7 @@ For other Linux flavors, macOS and Windows, packages are available at
 Quick start
 -----------
 
-Supported Env:
+**Supported Env:**
 
 - Linux
 - MacOs
@@ -44,6 +44,9 @@ The Installation can be done using the below ways
 Git Clone the repository
 ```
 https://github.com/vakees14/adj-cli-python
+
+$ git clone https://github.com/vakees14/adj-cli-python
+$ cd adj-cli-python/
 ```
 
 Use the below command to copy it into the /usr/local/bin to use it as a CLI
@@ -63,41 +66,44 @@ Download the from the Github Relese tab in the repository and place it in the be
 Usage
 -----
 
-How to run ?
+**How to run ?**
 ```
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+# adjust-sequence-shuffler
 10 1 2 6 9 5 4 3 8 7
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+# adjust-sequence-shuffler
 1 5 6 4 3 2 7 9 8 10
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+# adjust-sequence-shuffler
 8 1 10 9 3 2 7 6 5 4
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+# adjust-sequence-shuffler
 2 1 8 9 10 3 7 6 5 4
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+
+$ adjust-sequence-shuffler
 8 1 2 10 4 9 7 6 5 3
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+$ adjust-sequence-shuffler
 7 2 9 6 5 8 3 4 1 10
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+$ adjust-sequence-shuffler
 10 1 9 4 7 5 3 6 2 8
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler
+$ adjust-sequence-shuffler
 1 4 6 2 8 7 3 10 9 5
 
 ```
-(i) You get a random shuffled numbers
+> You get a random shuffled numbers everytime
 
-What to do if i want to generate sequence for a different limit ?
+
+**What to do if i want to generate sequence for a different limit ?**
 ```
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler --limit 20
+# adjust-sequence-shuffler --limit 20
 1 19 3 2 11 6 18 15 12 20 8 4 7 14 10 5 17 13 9 16
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler --limit 20
+# adjust-sequence-shuffler --limit 20
 2 1 20 10 4 8 17 14 16 12 19 18 6 3 15 13 11 9 7 5
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler --limit 15
+
+$ adjust-sequence-shuffler --limit 15
 5 1 2 4 15 7 8 9 10 11 12 13 14 3 6
-root@ubuntu:/home/vakee/# adjust-sequence-shuffler --limit 15
+$ adjust-sequence-shuffler --limit 15
 1 2 11 4 7 14 3 6 9 15 5 13 12 10 8
 ```
 
-How to know the available options ?
+**How to know the available options ?**
 ```
 root@ubuntu:/home/vakee/# adjust-sequence-shuffler -h
 usage: adjust-sequence-shuffler [-h] [--limit limit] [--version]
@@ -113,7 +119,7 @@ optional arguments:
 Enjoy the CLI Adjust Team!
 ```
 
-How to find the version of the adjust-sequence-shuffler you use ?
+**How to find the version of the adjust-sequence-shuffler you use ?**
 ```
 root@ubuntu:/home/vakee/# adjust-sequence-shuffler --version
 adjust-sequence-shuffler 1.0.0
