@@ -2,7 +2,7 @@
 
 """
 Description:
-    adjust-sequence-shuffler
+    simple-adjust-sequence-shuffler
 Abstract: 
     This is a simpler version of the shuffler which uses random module
 Author: 
