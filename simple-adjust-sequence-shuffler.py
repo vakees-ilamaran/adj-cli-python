@@ -10,7 +10,8 @@ Author:
 """
 
 import random
-
+import sys
+import argparse
 
 def parsing_args():
     """
